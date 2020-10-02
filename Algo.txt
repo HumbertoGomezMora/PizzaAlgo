@@ -4,5 +4,5 @@
     2-b. Do you want more than one pizza?
     2-c.Are you looking for the best thin crust or the best original?
 Decide where to order from.
-Decide what pizza to order
-Ask for pepperoni instead of pineapple.
+Decide what pizza to order.
+Ask for pineapple on the pizza
