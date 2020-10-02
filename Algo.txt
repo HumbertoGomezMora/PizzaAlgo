@@ -1,3 +1,10 @@
-Decide which business to order from
-Decide which type of pizza to order
-What if the order is wrong?
+1. Decide which business to order from
+2. Decide which type of pizza to order
+    2-a. What if the order is wrong?
+    2-b. Do you want more than one pizza?
+    2-c.Are you looking for the best thin crust or the best original?
+3. Do you want any sides?
+=======
+Decide where to order from.
+Decide what pizza to order
+>>>>>>>>>>>>Bugfix (Incoming Change)
